@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "437725362369",
+    "firebase_url": "https://iot-air-quality-8005e-default-rtdb.firebaseio.com",
+    "project_id": "iot-air-quality-8005e",
+    "storage_bucket": "iot-air-quality-8005e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437725362369:android:e0c8169fb5f38d88d17c40",
+        "android_client_info": {
+          "package_name": "com.example.iot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDr7oP1_BUIN5MM2viRiQKPQaYBlfrxpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
